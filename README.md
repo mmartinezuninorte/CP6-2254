@@ -1,14 +1,13 @@
 # Bienvenidos Tripulantes! - Grupo 2254
 #### Repositorio de codigo practico trabajado en clase.
 
-**Al clonar el repositorio es necesario que realice la instalacion de modulos:
-**
+**Al clonar el repositorio es necesario que realice la instalacion de modulos:**
 
-:fa-arrow-right: **`npm Install`** (desde la consola de comandos en la ubicacion del proyecto)
+**`npm Install`** (desde la consola de comandos en la ubicacion del proyecto)
 
 posteriormente si podra levantar el ambiente de desarrollo:
 
-:fa-arrow-right: **`npm run dev`**
+**`npm run dev`**
 
 
 
