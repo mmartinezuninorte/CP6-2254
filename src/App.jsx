@@ -3,7 +3,9 @@ import {TodoList} from './components/TodoList'
 import { useState } from 'react'
 
 function App() {
-  onAdd = ()=>{}
+  const onAdd = ()=>{
+    setContador(contador+1)
+  }
   const [contador, setContador] = useState(100)
   return (
     <div className="App">
